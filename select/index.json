@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "言って。",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2025-12-04T05:43:50.967458Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "言って。",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/01_言って。_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "言って。",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/02_言って。_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "言って。",
+      "artist": "ヨルシカ & n-buna",
+      "has_synced": true,
+      "path": "select/03_言って。_ヨルシカ_&_n-buna.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "言って。 (说吧。)",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/04_言って。_(说吧。)_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "言って。",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/05_言って。_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "言って。",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/06_言って。_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "言って。(Itte.)",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/07_言って。(Itte.)_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "言って。 - Say It.",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/08_言って。_-_Say_It._Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "言って。",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/09_言って。_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "言って。 - Say It.",
+      "artist": "Video • Yorushika",
+      "has_synced": true,
+      "path": "select/10_言って。_-_Say_It._Video_•_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "言って。",
+      "artist": "ヨルシカ & n-buna",
+      "has_synced": true,
+      "path": "select/11_言って。_ヨルシカ_&_n-buna.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "言って。",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/12_言って。_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "言って。",
+      "artist": "ヨルシカ (Yorushika)",
+      "has_synced": true,
+      "path": "select/13_言って。_ヨルシカ_(Yorushika).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "言って。 (Paused)",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/14_言って。_(Paused)_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "言って。 (From Live 2024「前世」)",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/15_言って。_(From_Live_2024「前世」)_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "言って。",
+      "artist": "Yorushika(ヨルシカ)",
+      "has_synced": true,
+      "path": "select/16_言って。_Yorushika(ヨルシカ).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "言って。",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_言って。_ヨルシカ.txt"
+    }
+  ]
+}
